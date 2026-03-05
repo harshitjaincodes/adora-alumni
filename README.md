@@ -20,22 +20,30 @@ A comprehensive Streamlit web application for centralized alumni data management
 - **Event Management**: Schedule and manage alumni events
 - **Statistics Dashboard**: View analytics and insights
 
-- ## Screenshots
+- ## 📸 Screenshots
 
-### Landing Page
-![Landing](screenshots/landing.png)
+### 🏠 Landing Page
+![Landing Page](screenshots/landing.png)
 
-### Student Login
-![Login](screenshots/student_login.png)
+---
 
-### Dashboard
-![Dashboard](screenshots/student_dashboard.png)
+### 🔐 Student Login
+![Student Login](screenshots/student_login.png)
 
-### Events
+---
+
+### 📊 Student Dashboard
+![Student Dashboard](screenshots/student_dashboard.png)
+
+---
+
+### 📅 Events Section
 ![Events](screenshots/events.png)
 
-### Admin Panel
-![Admin](screenshots/admin_dashboard.png)
+---
+
+### ⚙️ Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ## Setup Instructions
 
@@ -113,4 +121,5 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
 
