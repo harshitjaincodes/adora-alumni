@@ -28,7 +28,7 @@ A comprehensive Streamlit web application for centralized alumni data management
 ---
 
 ### 🔐 Student Login
-![Student Login](screenshots/student_login.png)
+<img src="screenshots/student_login.png" width="900">
 
 ---
 
@@ -146,6 +146,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
 
 
 
