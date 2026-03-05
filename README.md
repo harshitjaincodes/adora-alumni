@@ -23,7 +23,7 @@ A comprehensive Streamlit web application for centralized alumni data management
 - ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
+<img src="screenshots/landing.png" width="900">
 
 ---
 
@@ -41,7 +41,7 @@ A comprehensive Streamlit web application for centralized alumni data management
 ---
 
 ### ⚙️ Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+<img src="screenshots/admin_dashboard.png" width="900">
 
 ## 📁 Project Structure
 ```
@@ -146,6 +146,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
 
 
 
