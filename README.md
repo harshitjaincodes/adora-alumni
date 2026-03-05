@@ -33,13 +33,11 @@ A comprehensive Streamlit web application for centralized alumni data management
 ---
 
 ### 📊 Student Dashboard
-![Student Dashboard](screenshots/student_dashboard.png)
-
+<img src="screenshots/student_dashboard.png" width="900">
 ---
 
 ### 📅 Events Section
-![Events](screenshots/events.png)
-
+<img src="screenshots/events.png" width="900">
 ---
 
 ### ⚙️ Admin Dashboard
@@ -148,6 +146,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
 
 
 
