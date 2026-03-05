@@ -46,25 +46,32 @@ A comprehensive Streamlit web application for centralized alumni data management
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ## 📁 Project Structure
-
+'''
 adora-alumni
 │
 ├── app.py
 ├── auth.py
 ├── database.py
 ├── landing.py
+├── student_auth.py
 ├── student_dashboard.py
+├── admin_auth.py
 ├── admin_dashboard.py
+│
+├── firebase_config.py
+├── firebase_service.py
+│
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 │
-├── screenshots
-│   ├── landing.png
-│   ├── student_login.png
-│   ├── student_dashboard.png
-│   ├── events.png
-│   └── admin_dashboard.png
-
+└── screenshots
+    ├── landing.png
+    ├── student_login.png
+    ├── student_dashboard.png
+    ├── events.png
+    └── admin_dashboard.png
+    '''
 ## Setup Instructions
 
 ### 1. Install Dependencies
@@ -141,6 +148,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 This project is open source and available under the MIT License.
+
 
 
 
